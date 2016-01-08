@@ -1,6 +1,5 @@
 package com.blaazinsoftware.advancedUnitTesting.module1;
 
-import com.blaazinsoftware.module1.SimpleClass;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
