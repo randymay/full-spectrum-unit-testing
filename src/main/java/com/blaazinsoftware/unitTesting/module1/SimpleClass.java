@@ -1,4 +1,4 @@
-package com.blaazinsoftware.advancedUnitTesting.module1;
+package com.blaazinsoftware.unitTesting.module1;
 
 /**
  * @author Randy May
